@@ -1,2 +1,2 @@
-# Project-3
+# Sprint-3
 Data Analyst - This is my third project in the bootcamp TripleTen
