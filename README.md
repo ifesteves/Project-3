@@ -46,17 +46,3 @@ Testaremos duas hipóteses relacionadas às receitas médias dos planos e à dif
 
 ### Etapa 5: Conclusão Geral
 Faremos uma conclusão geral, resumindo nossas descobertas e resultados.
-
-## Como Usar
-Para reproduzir este projeto, você pode clonar este repositório e executar o código fornecido em um ambiente Jupyter Notebook.
-
-## Avaliação
-Este projeto será avaliado com base nos seguintes critérios:
-- Identificação e tratamento de problemas nos dados
-- Preparação adequada dos dados para análise
-- Uso de gráficos para visualização das distribuições
-- Interpretação dos resultados da análise estatística
-- Formulação e teste de hipóteses
-- Interpretação dos resultados dos testes de hipóteses
-- Conclusões relevantes e explicativas
-- Comentários explicativos ao longo do projeto
